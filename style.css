@@ -22,7 +22,7 @@ body {
     font-family: "releway"sans-serif;
 }
 
-.logo-span-header {
+.logo-span {
     color: #2e2f42;
 }
 
@@ -115,4 +115,14 @@ body {
 
 .section-employee {
     background-color: #F4F4FD;
+}
+
+.footer {
+    background-color: #2e2f42;
+}
+
+.footer-text {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
