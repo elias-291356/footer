@@ -8,7 +8,7 @@ body {
 
 /* main-page */
 .logo {
-    font-family: "releway"sans-serif;
+    font-family: "Releway"sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -19,11 +19,13 @@ body {
 
 .link {
     text-decoration: none;
-    font-family: "releway"sans-serif;
+    font-family: "Releway"sans-serif;
+
 }
 
 .logo-span {
     color: #2e2f42;
+    font-family: "Releway"sans-serif;
 }
 
 .nav-items {
@@ -125,4 +127,8 @@ body {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+
+.item-employee {
+    background-color: #FFFFFF
 }
